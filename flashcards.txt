@@ -1,0 +1,10 @@
+Berlin::Germany::5
+Paris::France::7
+Roma::Italy::9
+Warsaw::Poland::4
+Prague::Czech Republic::2
+Oslo::Norway::0
+Helsinki::Finland::11
+London::Great Britain::0
+Madrid::Spain::3
+Lisbon::Portugal::11
